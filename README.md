@@ -12,7 +12,7 @@ npx create-react-app reactjs-todos-app
 ### Go to app directory
 cd reactjs-todos-app
   
-### Start app open http://localhost:3000) to view it in your browser after run below command. 
+### Start app open (http://localhost:3000) to view it in your browser after run below command. 
 npm start
 
 ### Include bootstrap
