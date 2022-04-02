@@ -1,5 +1,5 @@
 ## Project description
-This is simple basic react Todos application. We can add/delete Todo. We can render diffrent page content(Home/About) without page reload.
+This is simple basic reactjs Todos application. We can add/delete Todo. We can render diffrent page content(Home/About) without page reload.
 
 
 ## Install Nodejs
