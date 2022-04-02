@@ -1,4 +1,4 @@
-## Project Description
+## Project description
 This is simple basic react Todos application. We can add/delete Todo. We can render diffrent page content(Home/About) without page reload.
 
 
@@ -22,6 +22,13 @@ npm install react-bootstrap bootstrap@5.1.3
 npm installl react-router-dom
 
 
-# Imporatnat Links
-
+## Imporatnat links
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo screenshots
+
+<img width="1440" alt="Screen Shot 2022-04-02 at 12 33 47 PM" src="https://user-images.githubusercontent.com/14269798/161371748-0eb3b2f6-1fd0-4039-8dff-4e666658c32b.png">
+
+<img width="1440" alt="Screen Shot 2022-04-02 at 12 33 47 PM" src="https://user-images.githubusercontent.com/14269798/161371744-5bd093c2-7291-4a28-b3b5-e27a63a3a8f5.png">
+
+<img width="1440" alt="Screen Shot 2022-04-02 at 12 34 53 PM" src="https://user-images.githubusercontent.com/14269798/161371750-8b2763df-f1b9-43d3-971f-cf1f3042ae32.png">
