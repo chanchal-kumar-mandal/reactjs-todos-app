@@ -6,6 +6,20 @@ This is simple basic ReactJS Todos application. We can add/delete Todo. We can r
 ### Install Nodejs
 https://nodejs.org/en/download/
 
+### Install Visual Studio (VS) Code
+https://code.visualstudio.com/download
+
+### Install Extension In VS Code
+1. Thunder Client 
+2. ES7 React/Redux/GraphQL/React-Native Snippets 
+3. Bracket Pair Colorizer 
+4. Auto Rename Tag 
+5. Live Server 
+6. Prettier - Code formatter 
+
+### Add Chrome Extension
+React Developer Tools
+
 ### Install react app
 npx create-react-app reactjs-todos-app
 
